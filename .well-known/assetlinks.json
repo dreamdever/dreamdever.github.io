@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "eu.starbug.vidanto",
+    "sha256_cert_fingerprints":
+    ["EF:BC:9E:01:51:D9:CB:10:08:F8:97:3B:CB:3D:3F:27:50:B6:67:E2:28:73:22:C0:0B:B1:58:6B:63:1B:B8:B7"]
+  }
+}]
